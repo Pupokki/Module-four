@@ -1,0 +1,22 @@
+h1 {
+    background: red;
+}
+.pupoks-1 {
+    background: blueviolet;
+    font-size: 32pt;
+    color: green;
+}
+.pupoks-2 {
+    border: 10px solid yellow;
+    border-radius: 100px;
+    font-size: 24pt;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+
+.pupoks-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Courier New';
+}
